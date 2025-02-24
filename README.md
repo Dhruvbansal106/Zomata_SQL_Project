@@ -1,8 +1,11 @@
 # Zomata_SQL_Project
+
 # 🍽️ SQL Project: Data Analysis for Zomato – A Food Delivery Company
 
 ## 📋 Overview
 This project demonstrates SQL problem-solving skills through the analysis of data for Zomato, a popular food delivery company in India. The project involves setting up the database, importing data, cleaning null values, and solving a variety of business problems using complex SQL queries.
+
+All datasets are provided, along with 20 business-related SQL problems and their source code.
 
 ## 📊 Entity-Relationship Diagram (ERD)
 ![ERD Diagram](https://github.com/Dhruvbansal106/Zomata_SQL_Project/blob/main/Zomato_ERD.png)
@@ -119,13 +122,9 @@ git clone https://github.com/yourusername/zomato_sql_project.git
 ## 📢 Contributing
 Feel free to fork the project, make changes, and create pull requests.
 
-## 📄 License
-This project is licensed under the MIT License.
-
-## ✅ Conclusion
-This project provided hands-on experience in database management and SQL problem-solving using real-world data from a food delivery company. Through setting up databases, importing and cleaning data, and solving complex business queries, the project demonstrates essential SQL skills for data analysis.
-
 ---
 
 Happy Querying! 🚀
+
+
 
