@@ -122,6 +122,10 @@ git clone https://github.com/yourusername/zomato_sql_project.git
 ## 📢 Contributing
 Feel free to fork the project, make changes, and create pull requests.
 
+✅ Conclusion
+
+This project offers a hands-on approach to SQL problem-solving through real-world data analysis for Zomato. By setting up the database, cleaning data, and addressing 20 business-related SQL challenges, users can strengthen their SQL skills and gain insights into food delivery data analytics.
+
 ---
 
 Happy Querying! 🚀
