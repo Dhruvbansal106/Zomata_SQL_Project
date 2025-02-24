@@ -1,4 +1,5 @@
-
+-- Q7. Most popular dish by restaurant
+-- Identify the  most popular dish in each restaurant based on the number of orders
 Select * from (
 Select 
 	r.restaurant_id,
