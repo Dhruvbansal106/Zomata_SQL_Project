@@ -7,4 +7,4 @@ where
 	AND 
 	customer_id NOT IN 
 						(SELECT DISTINCT customer_id from orders
-						Where EXTRACT(MONTH FROM order_date) < 6 )
+						Where EXTRACT(MONTH FROM order_date) < 6 );
